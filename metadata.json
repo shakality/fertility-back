@@ -1,0 +1,6 @@
+{
+  "name": "Fertility Back Book",
+  "description": "Official landing page for the Fertility Back book: A Complete Guide to Preparing Your Body for Pregnancy Naturally and Safely by Olumind Synergy Venture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
